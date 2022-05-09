@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harizi</h1>
 <h3 align="center">A Software Developer with a passion for DevOps activities</h3>
 
+(https://github.com/SayantaniDeb/SayantaniDeb/blob/main/Computer%20Science%20Student.png)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abd0hrz" alt="abd0hrz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

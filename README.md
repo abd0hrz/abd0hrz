@@ -1,6 +1,6 @@
 <!-- abd0hrz -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1000" alt="trungquandev-official" />
+  <img src="svg/trungquandev.svg" height="400" alt="trungquandev-official" />
 </a>
 
 

@@ -114,7 +114,7 @@ A sample of my recent articles:
   <a href="https://www.linkedin.com/in/harizi-bouabdellah/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="harizi-linkedin" />
   </a>
-  <a href="https://trungquandev.com" target="blank">
+  <a href="https://harizi-bouabdellah.me" target="blank">
     <img width="100" height="100" src="images/Mylogo.png" alt="abd0hrz-blog" />
   </a>
   <a href="mailto:b.harizi@esi-sba.dz" target="top">

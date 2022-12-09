@@ -112,7 +112,7 @@ A sample of my recent articles:
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://trungquandev.com" target="blank">
-    <img width="80" height="80" src="images/Mylogo.png" alt="abd0hrz-blog" />
+    <img width="100" height="100" src="images/Mylogo.png" alt="abd0hrz-blog" />
   </a>
   <a href="https://facebook.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />

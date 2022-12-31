@@ -87,10 +87,8 @@ Apart from coding, I also maintain a blog - you can find my articles on [my pers
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Backup-and-Restore of Containers with Kubernetes Checkpointing API](https://martinheinz.dev/blog/85)
-- [Getting Started with Google APIs in Python](https://martinheinz.dev/blog/84)
-- [Python CLI Tricks That Don&#39;t Require Any Code Whatsoever](https://martinheinz.dev/blog/83)
-- [All The Ways To Introspect Python Objects at Runtime](https://martinheinz.dev/blog/82)
+- [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet]([https://martinheinz.dev/blog/85](https://medium.com/@abd0hrz/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheet-f639458d357d))
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>

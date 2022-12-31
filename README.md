@@ -87,7 +87,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [my pers
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet]([https://martinheinz.dev/blog/85](https://medium.com/@abd0hrz/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheet-f639458d357d))
+- [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet](https://medium.com/@abd0hrz/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheet-f639458d357d)
 
 <!-- BLOG-POST-LIST:END -->
 

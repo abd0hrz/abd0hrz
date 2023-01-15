@@ -19,7 +19,7 @@ I'm Full Stack software developer/DevOps & Cloud engineer with a passion for Dev
 - 📫&nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harizi-bouabdellah/)
 - 📝&nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVdSE/view?usp=sharing)
 - 📚&nbsp; When I am free, I read books. Checkout my favourite books on [Goodreads](https://www.goodreads.com/user/show/147198181-harizi-abdellah) 
-- 😻&nbsp; Moreover, I'm a cat lover (｡◕‿‿◕｡) 
+- 😻&nbsp; Moreover, I'm a cat lover (｡◕‿‿◕｡) but don't send me emails about them, I won't click on links
 
 <br>
 

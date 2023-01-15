@@ -14,7 +14,7 @@ I'm Full Stack software developer/DevOps & Cloud engineer with a passion for Dev
 
 - 🔭&nbsp; I’m currently working on **Freelancer**
 - 🌱&nbsp; I’m currently learning more about DevSecOps 
-- 👨🏻‍💻&nbsp; Most of my projects are available on [Github](https://github.com/abd0hrz/abd0hrz/)
+- 👨🏻‍💻&nbsp; Most of my projects are available on [Github](https://github.com/abd0hrz?tab=repositories)
 
 - 📫&nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harizi-bouabdellah/)
 - 📝&nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVdSE/view?usp=sharing)

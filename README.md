@@ -79,17 +79,6 @@ I'm Full Stack software developer/DevOps & Cloud engineer with a passion for Dev
 <span><img src="https://img.shields.io/badge/Amazon AWS-282C34?logo=Amazon AWS&logoColor=" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></span>
 &nbsp;
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on [my personal website](https://www.abd0hrz.com/blog/) as well as on [Medium](https://medium.com/@abd0hrz)
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet](https://medium.com/@abd0hrz/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheet-f639458d357d)
-
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
